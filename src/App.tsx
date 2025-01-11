@@ -6,7 +6,7 @@ export const metadata = {
 	openGraph: {
 		title: 'React Metadata Test',
 		description: 'This is an example to test metadata in React 19.',
-		url: 'https://your-vercel-domain.vercel.app', // Vercel 배포 후 업데이트
+		url: 'react19-test.vercel.app', // Vercel 배포 후 업데이트
 		images: [
 			{
 				url: 'https://your-vercel-domain.vercel.app/og-image.png', // Vercel에 배포한 이미지 URL
